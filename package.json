@@ -1,0 +1,7 @@
+{
+  "name": "traceur-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "traceur": "0.0.8"
+  }
+}
